@@ -1,0 +1,2 @@
+kernel=kernel7.img
+core_freq=250
